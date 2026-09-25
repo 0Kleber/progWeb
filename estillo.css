@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #abc8e9;
     color: #333;
     line-height: 1.6;
     padding: 20px;
@@ -23,6 +23,8 @@ footer {
 header {
     text-align: center;
     padding: 20px 0;
+
+    border-radius: 8px;
 }
 
 header h1 {
@@ -49,7 +51,7 @@ main {
 }
 
 section {
-    background-color: #fff;
+    background-color: rgb(224, 224, 224);
     border-radius: 8px;
     padding: 20px;
 }
@@ -59,13 +61,13 @@ section h2 {
 }
 
 article {
-    border-left: 4px solid #0057b8;
+    border-left: 4px solid #0379ff;
     padding: 10px 15px;
     margin-bottom: 15px;
 }
 
 article h3 {
-    font-size: 1rem;
+    font-size: 1.4rem;
     color: #555;
 }
 
@@ -74,7 +76,9 @@ article p {
 }
 
 footer {
+    background-color: #7ab8ff;
     text-align: center;
     font-size: 0.875rem;
     padding: 20px 0;
+    border-radius: 8px;
 }
