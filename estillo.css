@@ -18,6 +18,7 @@ main,
 footer {
     max-width: 800px;
     margin: 0 auto;
+    background-color: #a1ccfd;
 }
 
 header {
@@ -76,7 +77,6 @@ article p {
 }
 
 footer {
-    background-color: #7ab8ff;
     text-align: center;
     font-size: 0.875rem;
     padding: 20px 0;
